@@ -1,0 +1,13 @@
+{
+    "dev": {
+      "port": "8001",
+      "url": "localhost",
+      "db":"mongodb://127.0.0.1:27017/kolesatest"
+    },
+    "prod": {
+      "port": "8000",
+      "url": "https://autolombardbot.fastbot.pro",
+      "db":"mongodb://127.0.0.1:27017/kolesa"
+    }
+  }
+  
